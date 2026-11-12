@@ -96,8 +96,11 @@ I enjoy tinkering with infrastructure, managing self-hosted services, and explor
 ### Hardware & Environment Specs
 
 #### Primary Workstation (Age 17–Present)
+#### Primary Workstation (Age 17–Present)
 * **Model:** ASUS Vivobook 15
+* **Processor:** Intel Core i3
 * **Memory:** 16GB DDR4 RAM *(Upgraded from 8GB via secondary internal SODIMM slot)*
+* **Storage:** 500GB SSD
 * **Operating System:** Windows 11 (with VirtualBox for isolated Linux environments)
 
 #### Early Development Machine (Ages 13–17)
