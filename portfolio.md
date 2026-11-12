@@ -1,5 +1,4 @@
 # Tjay Clough
-## Systems Administrator & Technical Creator
 
 Welcome to my portfolio! I am a hands-on technologist with a strong foundation in Linux administration, infrastructure, game server architecture, and software tinkering. Passionate about self-hosting, hardware modifications, and building technical systems from the ground up.
 
